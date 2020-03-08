@@ -2,4 +2,4 @@
  SwiftUI Expenses Tracker
 
 ![Image of Yaktocat]
-(assets/img/intro.png)
+(https://octodex.github.com/images/yaktocat.png)
